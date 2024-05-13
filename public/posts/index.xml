@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on -f- my personnal website </title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on -f- my personnal website </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© F.</copyright>
+    <lastBuildDate>Fri, 10 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1er post</title>
+      <link>http://localhost:1313/posts/post1/</link>
+      <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/post1/</guid>
+      <description>Aujourd&amp;rsquo;hui, j&amp;rsquo;ai décidé de créer un espace dédié pour publier du contenu varié sur ma pratique professionelle, mes idées, mes passions. Il s&amp;rsquo;agit d&amp;rsquo;un véritable carnet publique dans lequel je souhaite partager mes reflexions sur des sujets aussi divers que variés.&#xA;C&amp;rsquo;est aussi l&amp;rsquo;occasion de tester et d&amp;rsquo;apprendre. En effet, pour ce site, j&amp;rsquo;ai décidé de le publier en utilisant Hugo.&#xA;Bonne lecture&#xA;F.</description>
+    </item>
+    <item>
+      <title>cryptoreflexion3</title>
+      <link>http://localhost:1313/posts/cr3/</link>
+      <pubDate>Mon, 20 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/cr3/</guid>
+      <description>C’est quoi le principe de neutralité technologique? La neutralité technologique est le principe en vertu duquel l&amp;rsquo;État ne doit pas imposer de préférence pour ou contre une technologie donnée.&#xA;Ce principe a été notamment appliqué dans le cadre de la régulation de l’Internet.&#xA;L’OCDE recommandait, par exemple de tenir compte du “caractère fondamentalement ouvert de l’internet et la libre circulation de l’information, tout en faisant en sorte que la vie privée, les enfants et la propriété intellectuelle soient protégés de façon adéquate”.</description>
+    </item>
+    <item>
+      <title>cryptoreflexion2</title>
+      <link>http://localhost:1313/posts/cr2/</link>
+      <pubDate>Mon, 30 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/cr2/</guid>
+      <description>Mise en contexte En 2019, la France se dote de la loi PACTE. Cette loi intègre la notion d’actif numérique dans le droit français et le PSAN, le prestataire de services en actifs numériques.&#xA;Ce statut réglementé par l’Autorité de marché française (ci-après AMF) implique que toutes entités considérées comme PSAN doit solliciter un enregistrement (ou un agrément) à l’autorité de marché pour exercer son activité qui est devenue réglementée.</description>
+    </item>
+    <item>
+      <title>cryptoreflexion1</title>
+      <link>http://localhost:1313/posts/cr1/</link>
+      <pubDate>Thu, 22 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/cr1/</guid>
+      <description>« La vie privée est nécessaire à une société ouverte à l&amp;rsquo;ère électronique. La vie privée n&amp;rsquo;est pas le secret. Une affaire privée est quelque chose que l&amp;rsquo;on ne veut pas que le monde entier sache, mais une affaire secrète est quelque chose que l&amp;rsquo;on ne veut pas que quelqu&amp;rsquo;un sache. La vie privée est le pouvoir de se révéler au monde de manière sélective ». Ces lignes sont reprises du manifeste des Cypherphunk écrit en 1993 par Eric Hughes.</description>
+    </item>
+  </channel>
+</rss>

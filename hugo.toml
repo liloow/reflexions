@@ -1,0 +1,32 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'reflexions '
+theme = 'archie'
+copyright = "© Florian Ernotte"
+
+[params]
+mode= 'toggle'  
+subtitle = 'Quelques expériences et reflexions sur le web'
+
+
+# Main menu Items
+
+[[menu.main]]
+name = "home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "about"
+url = "/about"
+weight = 3
+
+[[menu.main]]
+name = "tags"
+url = "/tags"
+weight = 4
