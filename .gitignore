@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 *.log
 *.lock
 public
+=======
+.log
+.lock
+>>>>>>> bbd541d791204f4c28db896076916f0a777d5a74
