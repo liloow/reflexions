@@ -1,2 +1,3 @@
-.log
-.lock
+*.log
+*.lock
+public
