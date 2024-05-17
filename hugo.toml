@@ -17,13 +17,13 @@ url = "/"
 weight = 1
 
 [[menu.main]]
-name = "post"
-url = "post"
+name = "posts"
+url = "/posts"
 weight = 2
 
 [[menu.main]]
 name = "about"
-url = "about"
+url = "/about"
 weight = 3
 
 [[menu.main]]

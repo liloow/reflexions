@@ -66,11 +66,11 @@
       <description>« La vie privée est nécessaire à une société ouverte à l&amp;rsquo;ère électronique. La vie privée n&amp;rsquo;est pas le secret. Une affaire privée est quelque chose que l&amp;rsquo;on ne veut pas que le monde entier sache, mais une affaire secrète est quelque chose que l&amp;rsquo;on ne veut pas que quelqu&amp;rsquo;un sache. La vie privée est le pouvoir de se révéler au monde de manière sélective ». Ces lignes sont reprises du manifeste des Cypherphunk écrit en 1993 par Eric Hughes.</description>
     </item>
     <item>
-      <title></title>
-      <link>http://localhost:1313/pages/about/</link>
+      <title>about</title>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pages/about/</guid>
-      <description>test</description>
+      <guid>http://localhost:1313/about/</guid>
+      <description>I&amp;rsquo;m adding stuff but i cannot identify where i&amp;rsquo;m to modify pages</description>
     </item>
   </channel>
 </rss>
