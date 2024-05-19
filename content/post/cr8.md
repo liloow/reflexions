@@ -1,10 +1,19 @@
-+++
-title = 'cryptoreflexion8'
-date = 2024-05-18T17:54:03+02:00
-description = Entrée en vigueu MICA
-tags = [cryptoreflexion]
-+++
-# Mica 
+---
+title : cryptoreflexion8
+date : 2024-05-18 
+description : Entrée en vigueur de MICA
+tags = : ["cryptoreflexion"]
+--- 
+
+# Mica, monnaie électronique et paiements. 
+
+Le 6 mai 2024, un symposium sur le réglement Mica, la monnaie électronique et les paiements a été organisé par HEC-Paris dans le cadre de la [chaire Worldine](https://www.hec.edu/fr/faculte-et-recherche/worldline). 
+
+J'ai étét invité à panel de discussion composé de plusieurs autres personnes [voir ici sur le symposium](https://www.linkedin.com/feed/update/urn:li:activity:7193514487377743872/).
+
+Le format du panel ne permet pas d'avoir une reflexion et un exposé détaillé aux questions posés et j'ai voulu consolider ma réflexion dans les lignes qui suivent.
+ 
+
 ## 1) Quel serait l'impact de l'entrée en vigueur d'une partie du règlement Mica?
 
 Le règlement MICA va entrée en vigueur, pour les jetons de monnaies électroniques (ci-après JME) et les jetons se référant à un ou plusieurs actifs (ci-après JRA) en juin 2024. 

@@ -13,6 +13,6 @@ J'ai voulu monter ce site pour apprendre les bases de programmation et sortir de
 
 Je suis Florian Ernotte et voici mon site 'reflexions' où j'éxpérimente et je partage des reflexions. 
 
-Plus d'infos sur mon parcours professionel [ici](www.avroy.be/florian-ernotte)
+Plus d'infos sur mon parcours professionel [ici](www.avroy.be/florian-ernotte).
 
 --- 
