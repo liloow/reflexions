@@ -1,5 +1,5 @@
 ---
-title: cryptoreflexion7
+title: cryptoreflexions7
 description: Vers une société tokenisée?
 date : 2024-03-01
 tags: ["cryptoreflexion"]

@@ -1,5 +1,5 @@
 ---
-title : cryptoreflexion8
+title : cryptoreflexions8
 date : 2024-05-23 
 description : Entrée en vigueur de MICA
 tags = : ["cryptoreflexion"]
