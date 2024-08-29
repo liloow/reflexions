@@ -1,9 +1,12 @@
 ---
-title : read & takes note
-date : 2024-08-29 
-description : how i read online content and takes notes 
-tags = : ["personal"]["productivity"]
---- 
+title: "read & takes note"
+date: 2024-08-29
+description: ""
+tags: 
+  - personal
+  - productivity
+---
+
  
 # Starting Point
 
@@ -37,7 +40,6 @@ I had a tendency to collect a large volume of content. This content was somewher
 
 I understood that I needed to structure the data and then exploit it. The ideal is to connect ideas and knowledge. These connections allow for the evolution of thought, creating a virtuous circle fueled by natural curiosity.
 
-<mark style="background: #FFF3A3A6;">**consumption>curation>creation**</mark>
 
 # Searching for Solutions
 
@@ -78,8 +80,6 @@ After taking these notes, I became interested in the best way to take notes beca
 I understood that it was necessary to transpose, in my own words, the relevant and/or interesting content to get even more out of the reading.
 
 At this point, I found more pleasure in reading and started reading more books. I switched to Notion to create "tables" of my readings where I list, on an annual basis, the books I have read (for reference, I read 26 books between January 1, 2024, and July 31, 2024 - see the table below)
-
-![[2024 – Brave 20_08_2024 13_54_13.png]]
 
 I continued this note-taking during my readings, reformulating the content whenever possible.
 
