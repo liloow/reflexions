@@ -1,5 +1,5 @@
 ---
-title: cryptoreflexion5
+title: cryptoreflexions5
 description: Différents régulateurs ont lancé des consultations publiques dans le but d'encadrer le marché des crypto-actifs. Voici un petit tour d'horizon.
 date : 2023-07-20
 tags: ["cryptoreflexion"]

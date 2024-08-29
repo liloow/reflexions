@@ -18,7 +18,7 @@ C'est après coup que je m'en rend compte et notamment après avoir découvert c
 
 J'ai creusé la thématique sur l'écriture et la "réflexion" et dans mes recherches sur le sujet, j'ai lu un article de Paul Graham, [Putting ideas into words ](https://www.paulgraham.com/words.html) qui m'a fait comprendre plein de choses. Cet article m'a beaucoup aidé dans la compréhension de ce plaisir d'écrire.
 
-C'est donc aussi ici que je publierai les contenus que j'ai rédigé. 
+C'est donc aussi ici que je publierai les contenus que j'ai rédigés. 
 
 Neel Nanda a écrit sur [son blog](https://www.neelnanda.io/blog/post-28-on-creativity-the-joys-of-5-minute-timers) : 
 
