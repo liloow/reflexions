@@ -6,7 +6,7 @@ tags:
   - personal
   - productivity
 ---
-//work in progress//
+//work in progress- 03/02/25//
 
  « N'ayez aucun jugement de valeurs dans votre stratégie social media. Un réseau social est un dispositif technique disposant d'audiences stratégiques. Si un réseau social dispose de vos audiences stratégiques, allez-y. Une organisation n'a pas à juger de l'angle politique d'une plateforme. »
 
