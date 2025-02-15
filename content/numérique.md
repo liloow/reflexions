@@ -1,5 +1,7 @@
 ---
 title : numérique
+date : 2025-02-15
+
 ---
 
 Ayant depuis toujours un goût pour les technologies et le numérique, j’ai toujours essayé de regarder le sujet avec un œil critique. Ce regard était cependant distant et vierge de réflexion politique et philosophique. Je suivais l’actualité numérique, sans la questionner. 
@@ -30,7 +32,9 @@ J’espère que le curieux trouvera les premiers ressources pour explorer ce vas
 
 [Louis de Diesbach -  Liker sa servitude](https://fypeditions.com/liker-sa-servitude) 
 
-## newsletters
+## web
+
+[Richard Stallman's Personal Site](https://stallman.org/) 
 
 [Binaire - l'informatique : science et technique au coeur de l'informatique (Le Monde)](https://www.lemonde.fr/blog/binaire/) 
 
@@ -41,3 +45,7 @@ J’espère que le curieux trouvera les premiers ressources pour explorer ce vas
 [Frédéric Filloux - Episodiques](https://www.episodiqu.es/)
 
 [Tariq Krim - Cybernetica](https://www.cybernetica.fr/tag/newsletter/) 
+
+[Synth Media](https://synthmedia.fr/) 
+
+[Culture numérique - le blogue de marcello vitali-rosati](https://blog.sens-public.org/marcellovitalirosati/)
