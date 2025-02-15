@@ -5,6 +5,7 @@ description: ""
 tags: 
   - personal
   - productivity
+toc: true
 ---
 //work in progress- 03/02/25//
 

@@ -4,6 +4,7 @@ description: Réflexions sur l'actualité législative française et le renforce
 date : 2023-01-30
 tldr: 
 tags: ["cryptoreflexion"]
+toc: true
 ---
 # Mise en contexte
 
