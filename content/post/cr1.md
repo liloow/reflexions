@@ -4,6 +4,7 @@ description: Vie privée et cryptoactifs. Un mariage impossible.Comment concilie
 date : 2022-12-22
 tldr: Comment concilier les libertés fondamentales avec la lutte contre le blanchiment de capitaux?
 tags: ["cryptoreflexion"]
+toc: true
 ---
 _« La vie privée est nécessaire à une société ouverte à l'ère électronique. La vie privée n'est pas le secret. Une affaire privée est quelque chose que l'on ne veut pas que le monde entier sache, mais une affaire secrète est quelque chose que l'on ne veut pas que quelqu'un sache. La vie privée est le pouvoir de se révéler au monde de manière sélective »._ Ces lignes sont reprises du manifeste des [Cypherphunk écrit en 1993 par Eric Hughes](https://www.activism.net/cypherpunk/manifesto.html).
 

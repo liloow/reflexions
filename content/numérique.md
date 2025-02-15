@@ -1,7 +1,6 @@
 ---
 title : numérique
 date : 2025-02-15
-
 ---
 
 Ayant depuis toujours un goût pour les technologies et le numérique, j’ai toujours essayé de regarder le sujet avec un œil critique. Ce regard était cependant distant et vierge de réflexion politique et philosophique. Je suivais l’actualité numérique, sans la questionner. 

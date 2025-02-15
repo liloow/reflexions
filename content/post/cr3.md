@@ -4,6 +4,7 @@ description: Réglementer les entreprises et l'utilisation, pas la technologie. 
 date : 2023-02-20
 tldr: 
 tags: ["cryptoreflexion"]
+toc: true
 ---
 # C’est quoi le principe de neutralité technologique?
 

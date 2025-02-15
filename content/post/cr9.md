@@ -3,6 +3,7 @@ title : cryptoreflexions9
 date : 2024-09-01 
 description : Les maladies de la blockchain et le réglement UE sur les paiements instantanées
 tags = : ["cryptoreflexion"]
+toc: true
 --- 
 Bonjour à tous,
 
